@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "Path Expansion by John Brajer"
 abstract: "Path Expansion by John Brajer: value actions and search branches partly by the desirable future states they unlock."
 type: software
+doi: "10.5281/zenodo.23718111"
 authors:
   - family-names: Brajer
     given-names: John
